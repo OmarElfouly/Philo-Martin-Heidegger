@@ -188,7 +188,7 @@ int main()
     cin.get();
     //system("cls");
 
-    type("{As soon as the scientest has walked out of site, a man aproaches from the distance}");
+    type("{As soon as the scientest has walked out of site, a man aproaches from the distance. Similar, to the scientist this man also points towards the same direction}");
 
     cout << R"(
 5P55555555YYYYYYYYJJJJJJJJJ?JJ??????????77777777777777777!!!!!!!!!!!!!!!~~~~~~~~~~~~~~~~~~~~~~!!!!!!
@@ -254,6 +254,146 @@ G&&&####BBBBBGBBBBGGGGPGGGGGGGPPGGGPPPPP5PPPPPGBY~?PGGB?!!!!!!~!J?JBG5PGGGGGGGBB
     type("You probably noticed the scientiest's inability to provide a definition of modern science that makes it distinct from medival science.");
     type("This is a result of him being a postivist who beleives all we need in life is facts, and that we should avoid all concepts.");
     type("This immeadiatly creats an issue as whenever Mr. Scientist inevitably encounters a concept in his investegations he will ignore it, no matter how essential it is to reaching a valid conclusion.");
+    type("This is why he cannot and will never see that the fundemntal defining feature of science is the mathmatical.");
+    cout << "\n";
+    type("Brace yourself friend for now I will do to you what was once done to me by Heidegger, that is to guide you to a definition of the mathmatical through language.");
+    cout << "\n";
+    type("In greek the mathmatical is ta mathemata. This directly translates to what can be learned, and by extension what can be taught.");
+    type("By comparing other Greek words with their meaning we reach that ta mathemata must be things insofar that they … are learnable");
+    type("Learning is grasping and appropriating but not all taking is learning.");
+    type("For example taking a rock is not learning. Instead, learning is taking something you already have e.g. taking a word and placing it in your vocabulary");
+    type("The mathemata, the mathematical, is that “about” things which we really already know.");
+    cout << "\n";
+    type("{This definition is essential to our journey as it describes an important limit of the mathmatical}");
+    cout << "\n\n";
+    type("Take as much time as you need to absorb this information.");
+    cin.get();
+    type("Next, I will ask you a question can man think?");
+    type("Since man is the rational being, it is clear we possess reason. This reason evolves in thinking. So man must possess the posibility to think.");
+    type("But Heidegger would have us question if this possibility can ever become reality. He argues that, the issue with the world is our issue is that man has taken an interest in everything, but I believe, that the interest of today is something short-lived and therefore to call something interesting is to seal its fate as anything interesting is soon replaced by another thing meaning the first item of interest is treated with indifference.");
+    cout << "\n";
+    type("To understand how to think we must first learn to think. And to learn to think we must know what there is to think about, which we will name the thought-provoking.");
+    cout << "\n\n";
+    type("{A sudden and powerful wind pulls at the player. This wind is so powerful the player feels as if his whole being is being pulled by it. No. Pulled TOWARD it.}");
+    type("{The player finds himself facing the same direction as both the scientist and the follower}");
+    type("[Something is there. I feel it withdrawing yet why do I feel this odd attraction towards it?]");
+    cout << "\n";
+    type("If my designer was more artisticly gifted you'd a knowing smile on my face. That draw you felt. That force that pulls at your very core yet at the same time, always, withdraws. Is what Heidegger named the most-thought-provoking.");
+    type("Since the beginning, the most-thought-provoking has withdrawn from man leaving us lost and needy as while we can never truly see it, we feel its abscence, and its draw.");
+    type("Since what must be thought has withdrawn, man cannot think properly, no matter how close to thought we have come in our current time.");
+    cout << "\n";
+    type("{Somehow, as a result of the draw of what is most-thought-provoking the player finds himseld alone and in a foregin land. In front of him lies a chasm that seprates the domain of science and thinking}");
+    cout << R"(
+.::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::::::::::::::::::::::::::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:^^^^^^^:::::::::::::::::::::::::::::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::::::::::::::::::::::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^::::::::::::::::::::.^!!!!!!!~::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::::::::::::^^^!YYYYYYY?!!!~^
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^::::::::::!??JJYPGGGGP?!^:^:::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^::::::::::!PPPPBGPPPJ!.:::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::::::::^^^^^5GGG#5^^^^::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^::^~^:::::^~7?J??P#BB&G!::::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::7J?7!!!!?J55PP5G&&&@#J7^:::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^::^~~7PP55YYY5PGGGGGB@@GPP~^^^:::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::^:!?JJPGGGPPPGGY7JPGG#BJ^:::::::::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^::::::::::::::^^:::YPPGBBBBBBB#J:::^^^^^:::::::::::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::^:::^~~~~~^~^^~!7??7!JGGG######BPJ^:^^:::::^::::::::::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~!!!!?YYYJJ?JJJYY555Y5GBB#&&&#G?!::^^^^^^^^^^^^::::::::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^::::7YYYYPPPPPP5PPPPPGGPPG##&@@@@J:::^^^^^^^^^^^^^^^^::::::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:^!!~JPPPPGGGGGGGGGBBBBBBB&@@&&GYP~^:^^^^^^^^^^^^^^^^^^:::::::::::::::
+:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^JYY5GGGGBB#BBBB5YJ??JYPGPPB!^^::^^^^^^^^^^^^^^^^^^^^^^::::::::::::::
+:^^^^^^^^^^^^^^^^^^^::^:::::^:^~YPPGBBBB##G##5J^:::::::^::^::^^^^^^^^^^:^^^^^^^^^^^^^^^:::::::::::::
+:^^^^^^^^^^^^::::^^^~~~~~~~~^^7J5BGB###&&7:!7::^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::::::::
+:^^^^^^^^^::^^~!!!7?JJJJJJJJ??YPG#B#&&@@&!^::^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::::::
+:^^^^^^^^^^^~?JJYYY55PPPPPPPP5PGB&#&@@@B!^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::::
+:^^^::::^7?JJYPPPPPPGGGGGGGGGGGBB&@@@@&7:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::::
+:^^^^~~!7?5PPPPGGGGGBBBBBBBBBBB##@@@@@J:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:::::
+:^~?JJJYY5PGGGGBBB######&#&&&##&&&#&@@5^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^::::
+:^!Y5PPPPGGGBBBB##&&&&&@&@@B7~!?7~^~7Y?^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:
+^?J5PGGGGBBB####&&@@&GPJ!?Y~:^^^^^^^^:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:
+!YPGGGBBBB###&&&@@@&P:^^^^:^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:
+7GGBBB###&&&&&@@G7!~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:
+7G###&&&&&@@@@@@P^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:
+Y&&@@@@@@@@#5Y?!^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^:
+?BGGBBBBGBP~::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+)" << "\n";
+    type("{Looking around, the player spots faulty bridges in the distance each failing to cross this chasm}");
+    type("{A person can be scene sitting on the edge of the chasm. The mysterious, yet well groomed, person turns to the player}");
+    cout << "\n";
+    cout << R"(
+
+
+                                                                                                    
+                                            .......                                                 
+                                    ..:!7YYJYYY55555J777~:.                                         
+                                  :?YJY55J??JJJJJY55PPP5PPPY7^.                                     
+                               .^?55?7!~^::^^^~^^~!7?J?J55PPGPY7~:.                                 
+                             .~7J??~:......::::.::^~~!!!?JJ55P5PPP55?~.                             
+                            :7J?7!~~::::::::^^^^~!77??J?J?JY5Y55PPGB#BG7.                           
+                           ~???~^:............::^~!!??JJY55YJ55PGGBBB###?                           
+                          :YY?~:..   ...........:^~!777JYP5YY5PPGBBBBBB#G.                          
+                          !5?~:.     ...........:~!!!7?J5PPY5PGGBBBGGBBB#7                          
+                         :JJ7~.. .  ..   ......:^~!!!7?Y5GGPPGGBBGGGGBBB#B:                         
+                        ^JY?7^.. .  ..     ....:^~~!77J5PPGBGPGGP5PPGGBB##~                         
+                       .7?J?!:.     ..       ..^~!777JYY55PGPPPPPP5GBBBBBBJ                         
+                       :7?J?7!~~^:......:~!7????JJ?JJY5YY55PPYPG555BBBBBB#P.                        
+                      .^!YY7777?YY?^^~^?5P5YJ777?YYY55Y55555PPYPPGBBBBBB##P.                        
+                      :~~YJ7~~!?YY?^^^!J5J!~!!7??JJY5YYY55555P5PPBBBBBBBB#B~                        
+                     ^~!75YY7!PGPJ!~.~JJY7~???GBGGP5P5YJ5555555YPBBBBBBBB##5.                       
+                    .~!7PP~~7!7!!^^^^JYJ?!~!!7YY55GPY?YY5PP55GP5PGGBBBBBB##B7                       
+                     :!?GY::^^^:.:~:7YYJ?7~^~!!?JJ?7~!J5PP5PP55PY555GBBBBBB#B~                      
+                      ~JPY~......^^^?YYYJ!:::~~~~~~!7J5PP555PYJYPG5J5BBBBBBB#G:                     
+                     ^?YPY7^::.::^:~JY555!:.:~~!7?JY555P555PGY7JGG5JYPB#BBBBB#7                     
+                    :7JJ55?!~^^~?^^!YYYY5?^:^~!?JY555P5P55PGPJ?5BP5JYYGB#BBBBB5.                    
+                   .??JYY5?7~~!!JYY555YYPY7~~7?JYYYY55555PPP55GBBGG5YY5GBBBBBB#Y.                   
+                   !J7JYY5Y?!~^.:7Y?JP555J?!7?JYYYY55555P5PGYGBBBGGBGGP5GBB##BB#J                   
+                  ^5Y!?JJYPJ7!~~!??~75Y??JY?7?JYYYYY5555555GPGBBBBGBBGBGGGBBB#BB#J.                 
+                   ^JJ!7?YP577!7J???JJYYJ55Y?7JJYYY5Y555Y5PG55GB##GBBGBGBBBBBBBBB#P~                
+                    .7J?JPGGY?!!??J??JY5Y5J?7!?JYY55YY55YY5PGGBBGBBB#BBGB#BBBBBBB##Y                
+                     ..~7J55PY?77?JJJJJJJJJ?77?JYY5YYYYJY5GBGGP5YJ5PPGPGBBBBB#BBBB#Y                
+                           .:!Y?~:::::^!7???JJY5YYJYJJJY5PP55YJ??JYJ?5PPGBBBBBBBBBB5.               
+                              !5J?77???J?JYYYYJJ???JJY5P5YJ?7!!7JYJJJPPGPGBBBBBB#B#B!               
+                               ~?Y5Y5YYJYYJJJJ??JY55PP5J?7~^:^!?JYJ?PPP5G#######G5PJ:               
+                                 .:Y5555Y55P55555555Y?!!^:.::~?JYYYJPYPB####BB##Y:                  
+                               :^~!J7?JJYYYYYYJJJJ7~^~^.....^?JJYY5PYP###BB#BBBB#B?.                
+                            ..:!JYJ?~^~!77??J??7!^:^:......:7??JJYY5G###BBBBBBBBB##Y:               
+                           :..:!7?J?^:^^~~~!!7~:.:.. ...:^^?JJ????YB####BBBBBBBBBB##BY:             
+                          .:..^~!???~:.:^^^^^....   ....:^!J?77?~7B####B#BBBGGBBBBB###GJ:           
+                           ..:^^~7?J!^::^^:.. .::~?YJ?!~^^??!^!~!G###BBBBBBGGBBBBBBBBB##GJ^         
+                           ..::~!?J?!^^^^^^:!?5GBB#####B5Y?!^!7JB###BBBBBGBGGBBGGBBBBBBB##B?^       
+                         .:~.:::^7???!~^7??G#####BB#######P77!Y#####BBBGGGGPGGGGGGBBGBBBBB##B7      
+                       .:^~~:.::^7JJ7~~J5P#####B####BBBBBB#J!5######BBBGGPGBBGBGPGGGBBBBBB####Y^    
+                     .^~~~!?~::^7?77!!YPG###B###BB#GGBBBBB#PP&&####BBBBBGGGGGPPPGGGGGGBBBBBBB###5~. 
+                    .~!^~7JJ!~^^~!7!?5GB######BBBBBBBBBGGB###########BBGPGGGPGPPGGGGGGBBBBBBBB####P?
+                   ^7~^~!77!!^^^!!~?5G####BBBBGGBBGBBGPGBBGBBBB####BGGGPPGPGGPPGGPBGGBGBBBBBBBBB####
+                  ^J?!!~~~~^:.:!~^7YP##BBBBBBGBGGBGGGGPBGGBBB####BBGGGPGGPPGPPGGPGGGGGGBBBBBBBBB##&#
+                 :7!~~~~!~:.:^~!^~JYBBBBBBBBGGPGGGGGGPGGGBBBB###BBGGBPPGGPPGGGGPGGGGGBBBBBBBBBB#####
+                .^^:^~~!~^^^~!!~^??GBBBGGGGGBPGBGGGGGBPPBBB##&#BBGGGGPGBPGGGBBGGGGGGBBBBBBBBB#######
+              ^!~~^^^^^~~!77?77!?JJB#BGGGPPBGGGGGGBGBGPBBB###&BBGPGGPGG5PPPPGGGGGGGGBBBBBB##########
+             :?7!~~~^~!!~~~!7~~!JJ5B#GGGPPGPPGGGGBBBGPB#BB##&BBBGGGPPG55PPPGGGBGGBBBBBBB##B#########
+            ^?J!~~~~!7~^~!~~!~~?JYG#BGGPPGPGGBGGGBBBGB#B#####BBGGGPPGPPPPGGGGGGGGBBB#BB#############
+           .7J?!~~!!~^~77~!7!~7JYPG#BGGPGGPPBGBPBBBBB#BB##&#BBGGGPPGPPGPGGGPGGGGBBB#################
+           :??7!~^^~~!7!~77!!7?JYPB#BBGGGGPGGBBGBBB#B#B###&#BGGBGGGGPGGGGBBBBBB##B#################&
+           !77!^^^^~7?!^~7?!~7?7JPBBGGGPGP5GGBBBGGBBB#BB####BGBBGBBGBBBBBBB##B###B##################
+
+)" << "\n";
+    type_text("We are a sign that is not read.\nWe feel no pain, we almost have\nLost our tongue in foreign lands.");
+    cout << "\n";
+    type("[A hymn? How intresting. Perhaps he is right for every person here always points in the same direction as if a sign despratly guiding us somewhere.]");
+    cout << "\n";
+    type("{The player realizes he has somehow gotten closer to the foothills of thinking but how he moved he is unsure. Although he suspects the words of that poet somehow helped push him towards what is most thought provoking}");
+
+    cout << "\n";
+    type("{This is an oppertunity for the player to stop and rest for a moment}");
+    cin.get();
+
+
+
+
+
 
 
 
